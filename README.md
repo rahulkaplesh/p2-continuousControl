@@ -40,10 +40,11 @@ The environment can be downloaded from one of the links below for all operating 
 
 ## Dependencies
 
-1.) Install python
-2.) Install pytorch 
-3.) Unzip and place the downloaded environment in the folder where you have saved the repo
-4.) Install jupyter notebook 
+1. Install python
+2. Install pytorch 
+3. Unzip and place the downloaded environment in the folder where you have saved the repo
+4. Install jupyter notebook
+5. cd into the folder where you have downloaded the repo and start jupyter notebook using the command *jupyter notebook*
 
 
 ### Approach and solution
